@@ -1,0 +1,6 @@
+https://matplotlib.org/3.1.0/gallery/color/named_colors.html
+https://web.archive.org/web/20170228011551/http://matplotlib.org/examples/api/barchart_demo.html
+https://pythonspot.com/matplotlib-bar-chart/
+https://seaborn.pydata.org/tutorial/aesthetics.html
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+https://matplotlib.org/api/pyplot_api.html#matplotlib.pyplot.plot
