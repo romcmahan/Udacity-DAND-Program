@@ -8,4 +8,4 @@ Here I explore weather trends to get a feel for exploring and visualizing data.
 With a better understanding of visualizing and cleaning data, I dig into my first experience with investigating a dataset using python.
 
 ### **3. Analyze A/B Test Results**
-Using python, I utilized different statistic models to determine whether or not a new webpage converted users or not/
+Using python, I utilized different statistic models to determine whether or not a new webpage converted users or not.
