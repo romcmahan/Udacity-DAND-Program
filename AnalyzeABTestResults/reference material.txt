@@ -1,0 +1,9 @@
+https://www.geeksforgeeks.org/python-filtering-data-with-pandas-query-method/
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.duplicated.html
+https://math.meta.stackexchange.com/questions/21841/how-to-type-greater-than-or-equal-to-symbols
+https://csrgxtu.github.io/2015/03/20/Writing-Mathematic-Fomulars-in-Markdown/
+https://www.statsmodels.org/dev/generated/statsmodels.stats.proportion.proportions_ztest.html
+https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/z-score/
+https://tex.stackexchange.com/questions/63781/how-to-write-a-not-equal-to-sign-in-latex-pseudocode
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.join.html
+https://www.sharpsightlabs.com/blog/numpy-random-choice/
